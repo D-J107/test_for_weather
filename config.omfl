@@ -1,0 +1,12 @@
+{
+"cities": [
+    "Berlin",
+    "Moscow",
+    "New York"
+  ],
+  "settings": {
+      "forecast_days": 3,
+      "frequency": 10,
+      "token": "4kR/i1hx2Mhs5vhuaUi1JQ==vpYoHuvVEdUBZ1Zm"
+  }
+}
